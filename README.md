@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋
+
+📫 How to reach me: ...
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JohannesSchwegler&count_private=true&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohannesSchwegler&layout=compact&theme=tokyonight&hide=jupyter%20notebook,php,java,c%23)](https://github.com/JohannesSchwegler/github-readme-stats)
